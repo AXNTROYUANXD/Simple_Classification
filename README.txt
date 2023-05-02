@@ -1,6 +1,6 @@
 README
 
-You should install the correspoding libraries improted at ach file's beginning.
+You should install the correspoding libraries improted at each file's beginning.
 
 First, run Preprocess.py, you may need to manually change the path for training, validating and testing set respectively.
 
